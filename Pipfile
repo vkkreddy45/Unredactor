@@ -7,6 +7,7 @@ name = "pypi"
 nltk = "*"
 pandas = "*"
 sklearn = "*"
+pytest = "*"
 
 [dev-packages]
 
