@@ -110,6 +110,12 @@ pipenv run python -m pytest
 pipenv run python unredactor.py
 ```
 
+
+https://user-images.githubusercontent.com/98420519/167326871-34ea64d3-4f97-4016-b2d0-1b0cd1c264db.mov
+
+
+
+
 # Bugs and Assumptions
 
 * When checked for this model accuracy rate it was 5.405% (approx.). By this we can say that one may/may not get the correct prediction all the times.
